@@ -1,0 +1,38 @@
+h1{
+	text-align: center;
+	color:red;
+	font-family:arial;
+	font-variant:small-caps;
+}
+header{
+	background-color: blue;
+	border-radius:30px;
+}
+h2{
+	font-family: cursive;
+	font-weight:bold;
+	color:orange;
+	opacity:4px; 
+}
+section{
+	background-color:yellow;
+	margin-bottom:750px;
+}
+a{
+	background-color:grey;
+	color:white;
+	text-decoration: none;
+}
+a:hover{
+	background-color:purple;
+	border:2px solid green;
+}
+body{
+	background-color:red;
+	overflow: scroll;
+
+}
+*{
+	margin-bottom:10px;
+	
+}
