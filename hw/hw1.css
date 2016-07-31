@@ -28,7 +28,7 @@ a:hover{
 	border:2px solid green;
 }
 body{
-	background-color:red;
+	background:url("http://images.clipartpanda.com/rainbow-with-clouds-clipart-jTxE6jrec.jpeg") no-repeat center red;
 	overflow: scroll;
 
 }
