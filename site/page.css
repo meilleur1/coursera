@@ -1,0 +1,76 @@
+body{
+	background-color:maroon;
+}
+#header-nav{
+	background-color:yellow;
+	border:0;
+	border-radius:0;
+}
+#logo{
+	background:url("http://images.clipartpanda.com/rainbow-with-clouds-clipart-jTxE6jrec.jpeg") no-repeat;
+width:150px;
+height:150px;
+margin:10px 0px 10px 10px;
+}
+.navbar-brand{
+	padding-top:30px;
+
+}
+.navbar-brand h1{
+	font-family:serif;
+	color:black;
+	font-size:50px;
+	text-transform:uppercase;
+	font-weight:bold;
+	text-shadow:5px 4px 3px purple;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.navbar-brand a:hover , .navbar-brand a:focus{
+	text-decoration:none;
+}
+.navbar-brand p{
+	color:white;
+	text-transform:lowercase;
+}
+.navbar-brand p span{
+	vertical-align: middle;
+}
+#nav-list{
+	margin-top:10px;
+}
+#nav-list a{
+	color:blue;
+	text-align:center;
+}
+#nav-list a:hover{
+	background:grey;
+}
+#nav-list a  span {
+	font-size :25px;
+}
+#phone{
+	text-align:right;
+	padding-bottom:o;
+}
+#phone div{
+	color:orange;
+	text-align:right;
+	padding-right: 15px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border:1px solid maroon;
+
+}
+.navbar-header button.navbar-toggle{
+	clear:both;
+}
+#call-bth{
+	border:2px solid purple;
+	margin:4px;
+	padding:40px;
+	display:block;
+	background-color:grey;
+}
+  
+
